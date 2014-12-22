@@ -2,6 +2,7 @@
 ============
 
 A 2048 game based on command line
+
 by [h1994st](https://github.com/h1994st)
 
 ## Installation
